@@ -1,4 +1,7 @@
-# tribeify-take-home-challenge
+# reportify
+
+## Netlify Deploy
+https://reportifyapp.netlify.app/
 
 ## Project setup
 ```
