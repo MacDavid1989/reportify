@@ -3,6 +3,9 @@
 ## Netlify Deploy
 https://reportifyapp.netlify.app/
 
+## Heroku Deploy
+https://reportifyapp.herokuapp.com/
+
 ## Project setup
 ```
 npm install
